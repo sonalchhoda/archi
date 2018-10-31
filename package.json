@@ -5,6 +5,7 @@
   "author": "sonalchhoda@gmail.com",
   "description": "devops bot",
   "dependencies": {
+    "coffee-register": "^1.0.0",
     "coffee-script": "^1.12.7",
     "hubot": "^3.1.1",
     "hubot-azure-scripts": "^0.1.7",
